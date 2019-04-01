@@ -6,5 +6,6 @@ Sets up mininet to listen to remote controller, topology is not specified in thi
 
 
 ```sudo su``` 
+
 ```ovs-vsctl set Bridge s1 protocols=OpenFlow13``` 
 
